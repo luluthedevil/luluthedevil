@@ -1,6 +1,6 @@
 ### Hello, I am Luciana Ferreira!! 🙋
 
-- 🎓 Graduating em ADS by IFPB - Campus Cajazeiras-PB
+- 🎓 Graduating in ADS by IFPB - Campus Cajazeiras-PB
 
 <div align="center">
   <a href="https://github.com/luluthedevil">
