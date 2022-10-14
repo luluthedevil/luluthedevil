@@ -1,11 +1,14 @@
 ### Hello, I am Luciana Ferreira!! 🙋
 
-- 🎓 Graduating in ADS by IFPB - Campus Cajazeiras-PB
+- :mortar_board: Graduating in ADS by IFPB - Campus Cajazeiras-PB
+- :computer: Email: luluthedevil6666@gmail.com
+- :seedling: Studying: React
+- :blush: Pronouns: She/Her
 
 <div align="center">
   <a href="https://github.com/luluthedevil">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luluthedevil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluthedevil&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luluthedevil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluthedevil&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
