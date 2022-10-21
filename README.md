@@ -28,8 +28,7 @@
 </div>
   
   ##
-  Check-out my website/portifolio
-  https://luluthedevil.github.io/lulu/
+  Check-out my website/portifolio - https://luluthedevil.github.io/lulu/
   ##
   
 <div> 
