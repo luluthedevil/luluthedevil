@@ -1,12 +1,13 @@
-### Hello, I am Luciana Ferreira!! 🙋
+### Hello, I am Luciana Ferreira Miranda!! 🙋
 
 - :mortar_board: Graduating in ADS by IFPB - Campus Cajazeiras-PB
-- :computer: Email: luluthedevil6666@gmail.com
-- :seedling: Studying: React
+- :computer: Get in touch - luluthedevil6666@gmail.com
+- :seedling: I’m currently studying - React
 - :blush: Pronouns: She/Her
 
 <div align="center">
   <a href="https://github.com/luluthedevil">
+  <img height="250rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luluthedevil&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luluthedevil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluthedevil&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
