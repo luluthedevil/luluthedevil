@@ -3,7 +3,7 @@
 - :mortar_board: Graduating in ADS by IFPB - Campus Cajazeiras-PB
 - :computer: Get in touch - luluthedevil6666@gmail.com
 - :seedling: I’m currently studying - React
-- :blush: Pronouns: She/Her
+- :blush: Pronouns - She/Her
 
 <div align="center">
   <a href="https://github.com/luluthedevil">
