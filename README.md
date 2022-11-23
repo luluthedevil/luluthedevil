@@ -1,4 +1,4 @@
-### Hello, I am Luciana Ferreira Miranda!! 🙋
+### Hello, I am Luciana Ferreira Miranda 🧩
 
 - :mortar_board: Graduating in ADS at IFPB (Instituto Federal da Paraíba) Campus Cajazeiras
 - :computer: Get in touch - luluthedevil6666@gmail.com
