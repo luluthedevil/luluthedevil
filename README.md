@@ -1,16 +1,15 @@
 ### Hello, I am Luciana Ferreira Miranda 🧩
 
-- :mortar_board: Graduating in ADS at IFPB (Instituto Federal da Paraíba) Campus Cajazeiras
+- :mortar_board: ADS at IFPB (Instituto Federal da Paraíba) Campus Cajazeiras
+- :mortar_board: Pos graduation In Data Science
 - :computer: Get in touch - luluthedevil6666@gmail.com
-- :seedling: I’m currently studying - React
+- :seedling: I’m currently studying - Python
 - :blush: Pronouns - She/Her
 
 <div align="center">
   <a href="https://github.com/luluthedevil">
-  <img height="250rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luluthedevil&theme=tokyonight"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luluthedevil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130rem" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luluthedevil&theme=tokyonight"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluthedevil&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180rem" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luluthedevil&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluthedevil&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
