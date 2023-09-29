@@ -2,7 +2,7 @@
 
 - :mortar_board: ADS at IFPB (Instituto Federal da Paraíba) Campus Cajazeiras
 - :mortar_board: Pos graduation In Data Science
-- :computer: Get in touch - luluthedevil6666@gmail.com
+- :computer: Get in touch - luciana.fm.data.scientist@gmail.com
 - :seedling: I’m currently studying - Python
 - :blush: Pronouns - She/Her
 
